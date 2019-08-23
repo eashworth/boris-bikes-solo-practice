@@ -1,0 +1,7 @@
+Solo practice and review of the Makers Academy "Boris Bikes" project
+
+During my first week at Makers, I pair-programmed the Makers "Boris Bikes" exercise with a series of different partners. The project consists of a series of 22 challenges, covering various programming concepts and practices that students covered briefly during the pre-course, but have yet to master.
+
+Each challenge outlines what the program needs to accomplish, summarises how this might be approached, and provides links to relevant resources. Students are challenged to code the project in pairs, using self-guided learning, with the aid of just the summary and the linked resources. If the pair have attempted to do this, but find themselves  really stuck, their final resort is to consult a third resource, the challenge "walkthrough", which comprises a series of detailed step-by-step instructions.
+
+By the end of Thursday during of my first week at Makers, I had pair-programmed challenges 1-14 out of 22, mostly without the aid of the walkthroughs. I had made the maximum effort to explore the concepts and code the project without being spoon-fed, but was aware that my understanding - the foundation of my code - was a little shaky. I felt the need to consolidate that foundation, so decided to review my code I had written whilst pairing, code it again on my own, and then compare my code with the "ideal" described in the walkthroughs. This repo contains my "solo" code, documents the comparison and what I learned as a result.
